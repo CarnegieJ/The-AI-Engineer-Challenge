@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'AI Engineer Challenge - Chat Interface',
   description: 'A beautiful chat interface for the AI Engineer Challenge, powered by OpenAI and FastAPI',
   keywords: ['AI', 'Chat', 'OpenAI', 'FastAPI', 'Next.js'],
-  authors: [{ name: 'AI Engineer Challenge' }],
+  authors: [{ name: 'AI Engineer Challenge - Carnegie Johnson' }],
 }
 
 export const viewport = {
