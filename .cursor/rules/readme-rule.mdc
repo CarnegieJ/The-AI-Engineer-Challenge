@@ -7,3 +7,6 @@ alwaysApply: false
 
 - When you create README.md's - they should be dope, and use fun and approachable language.
 - While being fun, they should remain technically accurate.
+- Use GitHub readme standards and core coding standards for ReadMe projects on GitHub under the readmeio/standards repository (https://github.com/readmeio/standards) that contains the necessary guidelines and conventions for creating effective README files. 
+- For additional README style and formatting guidelines, you can refer to the styleguide (https://google.github.io/styleguide/docguide/READMEs.html), which covers how to create README files that are readable with GitHub and Gitiles. 
+- Create README files that are not only informative but also visually appealing and easy to navigate for the audience.
