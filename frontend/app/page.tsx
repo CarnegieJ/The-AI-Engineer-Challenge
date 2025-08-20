@@ -113,7 +113,7 @@ export default function Home() {
               <div className="p-2 bg-primary-500 rounded-lg">
                 <Sparkles className="h-6 w-6 text-white" />
               </div>
-              <h1 className="text-xl font-bold text-dark-900">AI Engineer Challenge</h1>
+              <h1 className="text-xl font-bold text-dark-900">AI Engineer Challenge by Carnegie Johnson</h1>
             </div>
             <div className="flex items-center space-x-4">
               <button
@@ -192,7 +192,7 @@ export default function Home() {
                 <Bot className="h-8 w-8 text-primary-600" />
               </div>
               <h3 className="text-xl font-semibold text-dark-900 mb-2">
-                Welcome to AI Engineer Challenge! 🚀
+                Welcome to AI Engineer Challenge by Carnegie Johnson! 🚀
               </h3>
               <p className="text-dark-600 max-w-md mx-auto">
                 Start a conversation by typing a message below. Make sure to set your OpenAI API key in the settings first!

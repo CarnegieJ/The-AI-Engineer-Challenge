@@ -5,7 +5,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'AI Engineer Challenge - Chat Interface',
+  title: 'AI Engineer Challenge - Chat Interface by Carnegie Johnson',
   description: 'A beautiful chat interface for the AI Engineer Challenge, powered by OpenAI and FastAPI',
   keywords: ['AI', 'Chat', 'OpenAI', 'FastAPI', 'Next.js'],
   authors: [{ name: 'AI Engineer Challenge - Carnegie Johnson' }],
